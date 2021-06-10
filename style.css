@@ -1,0 +1,33 @@
+.overall {
+  background-color: #6f6cf6;
+}
+
+.head {
+  margin-top: 50px;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  font-size: 70px;
+}
+
+.dice {
+  font-family: "Dancing Script", cursive;
+  margin-top: 80px;
+  justify-content: center;
+  font-size: 25px;
+  text-align: center;
+  display: flex;
+}
+.player1 {
+  flex: 1;
+}
+
+.player2 {
+  flex: 1;
+}
+
+footer {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 100px;
+}
